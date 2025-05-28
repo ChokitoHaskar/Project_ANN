@@ -1,0 +1,187 @@
+,NamaBalita,JenisKelaminL/P,Umur(bln),BB(Kg),Tb(cm),StatusGiziPB/UTB/U,StatusGiziBB/U,StatusGiziBB/TB
+0,RaikalShingKhurana,L,35,8.5,86.0,PENDEK,BBSangatkurang,giziburuk
+1,MestikaNabila,P,38,10.5,85.0,PENDEK,BBkurang,normal
+2,kamaluddinilyas,L,23,7.7,79.0,PENDEK,BBSangatkurang,giziburuk
+3,AyumiFaujiah,P,13,6.5,68.0,PENDEK,BBSangatkurang,gizikurang
+4,Ikhsanpratama,L,48,12.0,95.0,PENDEK,BBkurang,normal
+5,RobiatulAnnahda,P,17,6.6,70.0,Sangatpendek,BBSangatkurang,GiziKurang
+6,Nur Mey Dita,P,40,11.0,87.0,PENDEK,KURANG,Normal
+7,Niarbetty,P,46,11.7,93.0,Pendek,Normal,Baik
+8,Raisal Affandi,L,52,11.5,93.0,Sgt Pendek,Normal,Kurang
+9,Siti Akila,P,47,11.0,88.0,Sgt Pendek,Sgt Kurang,Baik
+10,Muhammad Arka,L,59,12.5,98.0,Pendek,Kurang,Baik
+11,Mhd Al khafi,L,51,12.5,94.0,Pendek,Kurang,Kurang
+12,Nazira Alya Lubis,P,30,11.0,83.0,Pendek,Normal,Baik
+13,Azzam Fahri,L,39,10.0,90.0,Pendek,Sgt Kurang,Buruk
+14,Fikri Maulana,L,43,11.8,85.0,Sgt Pendek,Kurang,Baik
+15,Sakila,P,28,8.5,70.0,Sgt Pendek,Sgt Kurang,Baik
+16,Siti Aisyah,P,58,11.5,91.0,Pendek,Normal,Baik
+17,Arumi Chayra Aulia,P,29,9.5,86.0,Normal,Kurang,Kurang
+18,Naura Syafitri,P,39,10.0,83.0,Sgt Pendek,Kurang,Baik
+19,Nur Rahma Swandi,P,43,14.0,91.0,Pendek,Normal,Baik
+20,Fatimah Az zahra,P,36,9.5,86.0,Pendek,Sgt Kurang,Kurang
+21,Kurnia Shah Harumi,P,57,13.0,95.0,Pendek,Kurang,Baik
+22,Alisya Salsabila,P,49,11.0,87.0,Sgt Pendek,Sgt Kurang,Baik
+23,Shifanny Ar Ray Tanjung,P,26,8.5,70.0,Sgt Pendek,Kurang,Baik
+24,M. Khabib,L,33,10.3,81.0,Pendek,Kurang,Baik
+25,M. Rizki Ramadhan,L,48,12.3,82.0,Pendek,Kurang,Baik
+26,Adiba Kanza Zahra,P,44,12.0,90.0,Pendek,Kurang,Baik
+27,Muamar Latif,L,26,10.0,75.0,Sgt Pendek,Normal,Baik
+28,Haikal Ahmad Zidan,L,46,13.5,96.0,Pendek,Kurang,Baik
+29,Kaila Putri Arafah,P,47,8.0,84.0,Sgt Pendek,Sgt Kurang,Buruk
+30,BilqisAzura,P,28,9.2,77.0,Sgt Pendek,Kurang,Baik
+31,Inhdzen Alfarizi,L,28,10.0,76.0,Sgt Pendek,Kurang,Baik
+32,Razak,L,25,9.0,76.0,Sgt Pendek,Kurang,Baik
+33,Afif hamizan,L,43,11.5,90.0,Pendek,Kurang,Baik
+34,Rafael Darmawan,L,58,11.0,87.0,Sgt Pendek,Sgt Kurang,Baik
+35,Davian,L,15,7.0,69.0,Pendek,Kurang,Baik
+36,Zein malik Alhafis,L,53,11.0,93.0,Pendek,Sgt Kurang,Kurang
+37,Aisyah Putri Syaban,P,28,9.3,80.0,Pendek,Kurang,Baik
+38,Kezira,P,53,12.0,89.0,Sgt Pendek,Kurang,Baik
+39,Chelsi,P,56,11.0,93.0,Sgt Pendek,Sgt Kurang,Kurang
+40,Khairunnisa,P,39,10.6,96.0,Pendek,Normal,Baik
+41,Azka Makhaila,P,44,10.2,90.0,Pendek,Sgt Kurang,Kurang
+42,Arumi Farhana,P,33,11.4,92.0,Pendek,Normal,Baik
+43,Albyansyah Haikal Sagala,L,19,8.0,79.0,Normal,Kurang,Buruk
+44,Lena,P,21,8.5,72.0,Sgt Pendek,Normal,Baik
+45,Alif Ardiansyah,L ,43,12.3,90.0,Pendek,Normal,Baik
+46,Dava Adya Tama,L,31,10.5,78.0,Sgt Pendek,Normal,Baik
+47,M. Alfarizi,L ,32,8.8,83.5,P ,BBSK,GK
+48,Suci Hayati,P,55,10.5,91.0,SP,BBK,GK
+49,M. Rasyad,L,27,7.3,76.0,SP ,BBSK,GB
+50,M. Adam,L ,47,11.0,90.0,P,BBK,N
+51,Azzalea,P,51,12.0,92.5,P,N,N
+52,Chika Umairah Putri ,P,33,8.4,80.0,P,BBK,GK
+53,Mutiara ,P,21,8.0,75.0,P ,N,N
+54,Nayara Syanum ,P,24,7.3,75.0,SP ,BBSK,GK
+55,Arsyana Dwi Akila ,P,44,11.3,90.0,P,N,N
+56,GelisAisiHumairah,P,35,11.0,85.0,Pendek,Normal,GiziBaik
+57,T.AbianPermana,L,48,11.0,93.5,Pendek,SangatKurang,GiziKurang
+58,RosalindaNainggolan,P,48,9.6,92.0,Pendek,SangatKurang,GiziKurang
+59,AfifahAzahra,P,32,8.3,80.0,SangatPendek,SangatKurang,GiziKurang
+60,Fahmi,L,34,10.0,86.0,Pendek,Kurang,GiziKurang
+61,TRafi,L,51,11.5,96.0,Pendek,Kurang,GiziKurang
+62,T.Andra,L,30,10.3,83.0,Pendek,Kurang,GizBaik
+63,FathinNurAddaha,P,22,8.0,75.0,Pendek,Kurang,GiziBaik
+64,RandiRifqi,L,45,9.5,81.0,SangatPendek,SangatKurang,GiziBaik
+65,BilmarHasudunganSinaga,L,27,9.0,83.0,Pendek,SangatKurang,GiziKurang
+66,AfikaSariNdruru,P,43,9.5,83.0,SangatPendek,SangatKurang,GiziKurang
+67,MhdIzharAlZikri,L,20,6.8,70.0,SangatPendek,SangatKurang,GIZIKurang
+68,DaniaQuinza,P,32,8.5,83.0,Pendek,SangatKurang,GiziKurang
+69,Miftahul Khaira,P,49,12.2,95.0,Pendek ,Kurang,Gizi Baik
+70,Mika Nababan,L,46,11.3,87.0,Sangat Pendek,Kurang,Gizi Baik
+71,Muhammad Alfarizky,L,41,11.2,94.5,Normal ,Kurang,Gizi Kurang
+72,Fanesha,P,30,10.0,82.0,Pendek ,Normal,Gizi Baik
+73,Uwais Al Qarni,L,25,8.6,79.0,Pendek ,Sangat Kurang,Gizi Kurang
+74,Fauziah Aylani,P,38,9.0,81.2,Sangat Pendek,Sangat Kurang,Gizi Baik
+75,Ayra Zahra,P,48,11.35,89.0,Sangat Pendek,Kurang,Gizi Baik
+76,Abidzar Azka,L,40,10.5,88.5,Pendek ,Kurang,Gizi Baik
+77,Muhammad Fitra,L,38,9.45,86.0,Pendek ,Sangat Kurang,Gizi Kurang
+78,Alghifari Dermawan,L,28,10.0,81.6,Pendek ,Kurang,Gizi Baik
+79,Diki Alfarizky,L,53,12.6,94.6,Pendek ,Kurang,Gizi Baik
+80,Riris Putri Viona,P,36,8.0,81.0,Sgt Pendek,Sangat kurang,Gizi Buruk
+81,Mufia Karfani Ansa,P,31,10.0,81.0,Pendek,Kurang,Gizi Baik
+82,Bryan Shane E. Purba ,L,41,13.0,89.0,Pendek,Normal,Gizi Baik
+83,Deedat Al Mawi,L,30,10.0,83.0,Pendek,Normal,Gizi Baik
+84,Muhammad Nauval ,L,26,9.0,82.0,Pendek,Kurang,Gizi Baik
+85,Salsa Kirana,P,21,7.0,75.0,Pendek,Sangat Kurang,Gizi Buruk
+86,  Malika Putri,L,56,11.3,94.0,pendek,kurus,gikur
+87,Raja alisyahbana,P,39,10.6,89.0,pendek,kurus,gikur
+88,Karissa Aulia,L,25,8.6,80.0,pendek,kurus,gikur
+89,abdi Pratama ,P,26,8.7,81.5,pendek,kurus,gikur
+90,Alika attahira,P,33,8.2,82.0,pendek,kurang,kurang
+91,Kirana Ayumna,P,21,10.3,73.0,sgt pendek,normal,resk lbh
+92,Virena,P,15,8.0,72.0,pendek,kurang,baik
+93,Chrisdean  Xander Gulo,L,46,11.9,91.0,pendek,kurang,baik
+94,Boy Nuradi,L,49,13.0,93.0,pendek,normal,baik
+95,Julpita,P,42,9.5,87.5,pendek,sgt krg,kurang
+96,Gabriel,L,22,10.0,76.5,sgt pendek,normal,baik
+97,Jovanca Sihite,P,15,6.7,69.0,s.pdk,KRG,s. kurus
+98,zaspin Tambunan,L,7,5.0,57.0,S.PDK,s.kurang,s.kurus
+99,M. israq Fadillah,L,40,10.0,82.0,S.PDK,s.kurang,Normal
+100,Fatimah Azzarah,P,51,10.0,83.0,S.PDK,s.kurang,Normal
+101,Faniria Zega,P,14,7.1,77.0,Normal,kurang,s.kurus
+102,Naila Putri,P,56,11.8,96.0,Pendek,BB kurang,Gizi Kurang
+103,Arif setiawan,L,59,12.3,92.0,sangat pendek,BB Kurang,Gizi kurang
+104,Panji Putra,L,32,9.4,84.0,Pendek,BB kurang,Gizi Kurang
+105,M. Alvin,L,54,13.7,93.0,Pendek,N,N
+106,M.  Kelvin,L,54,13.6,93.0, Pendek,N,N
+107,Halimatusadiah,P,48,13.2,89.0,Pendek,N,N
+108,Asyura Nazhira,P,23,7.7,81.0,Pendek,K,K
+109,Rahmi Muharani,P,45,13.0,87.0,Pendek,N,N
+110,M. Faalih Shiddik,L,48,13.3,90.0,Pendek,N,N
+111, Aqilla,P,33,9.5,83.0,Pendek,K,K
+112, Ara Dewi Lestari,P,44,11.8,84.0,Sangat Pendek,K,N
+113, Adit Sahputra,L,43,12.5,88.0,Pendek,K,N
+114, Maulana,L,19,7.8,74.0,Pendek,K,K
+115, Anisa Zahara,P,57,14.7,95.0,Pendek,N,N
+116, Airin Uswatul Hasanah,P,25,8.0,78.0,Pendek,K,K
+117, Riana Jarni,P,31,9.0,77.0,Sangat Pendek,N,N
+118,M. Haikal Azril,L,34,7.0,80.0,Sangat Pendek,Sangat Kurang,Gizi Buruk
+119,Aira Nur Humaira,P,29,9.0,81.0,Pendek,Sangat Kurang,Gizi Baik
+120,Andra Nur Alfian Pulungan,L,50,11.0,93.0,Pendek,Sangat Kurang,Gizi Baik
+121,Rainda Azaria,P,44,11.0,90.5,Pendek,BB Sangat Kurang,Gizi Baik
+122,Rahul Gilbert Yosafat ,L,34,11.7,91.0,Pendek,Kurang,Baik
+123,Mhd Al Rasyid,L,26,8.8,80.0,Pendek,Sgt kurang,Kurang
+124,Abdel Justin,L,28,7.9,75.0,.Pendek,BB Kurang,Gizi Baik
+125,Rasel,L,55,10.5,80.0,sgt pendek,Gz Buruk,gz buruk
+126,Diego Soala,L,20,6.7,69.0,Sgt Pendek,Gz Buruk,Sgt Kurus
+127,Aisyah,P,35,8.5,79.0,.Pendek,Gz Buruk,Sgt Kurus
+128,Paris Humaira,P,35,10.0,82.0,Pendek, Gz Baik,gz Kurang
+129,Hafijah Ramayani,P,50,10.0,86.0,Sgt Pendek,Gz Buruk,sgt Kurus
+130,Dwi Febi Ramayani,P,39,9.8,80.0,sgt pendek ,Gz Kurang,sgt kurus
+131,Gideon,L,14,7.6,70.0,Pendek,gz buruk,sgt kurus
+132,Saidah,P,51,11.0,82.0,Sgt Pendek,gz Kurang,sgz Kurang
+133,Muhammad Raffa,L,25,7.3,70.0,sgt pendek,gz buruk,sgt kurang
+134,Mufia Ardilla,P,45,11.0,89.0,Pendek,gz buruk,sgt kurus
+135,Mafik jaya Ramadhan,P,24,9.6,93.0,Pendek,gz buruk,sgt kurus
+136,Harfan R.A,L,23,6.9,70.0,Pendek,gz Buruk,sgt kurus
+137,Afiza Akbar,L,33,9.2,74.0,Pendek,gz kurang,Kurus
+138,Nursyabilla,P,41,10.0,86.0,Pendek,Gz Kurang,Kurus
+139,Gabriel Merlindo Baringbing,L,48,11.4,93.3,Pendek,Kurang,Kurang
+140,Alfan Pardede,L,42,10.5,88.1,Pendek,Kurang,Kurang
+141,Asifa Jahwa,P,26,8.2,78.2,sgt pendek,sgt kurang,sgt kurang
+142,Mhd Al Rasyid,L,26,8.8,80.0,Pendek,Sgt kurang,Kurang
+143,"M,Yusuf Rangkuti",L,47,11.2,94.0,Pendek,Kurang,Kurang
+144,Annasya Adreena,P,49,11.2,92.0,Pendek,Kurang,Baik
+145,Ezra Novita Bangun,P,13,6.3,68.0,Pendek,Kurang,Kurang
+146,Sarah FitrYa,P,53,11.5,96.0,Pendek,.Kurang,Kurang
+147,Arsyla Mecca,P,37,11.0,86.0,Pendek,Normal,Normal
+148,alfi syahri Ar-Rahman,L,27,8.9,79.0,S.Pendek,.Kurang,Normal
+149,Hikaru Kagami,L,37,10.2,84.0,Kurang,S.Pendek,Normal
+150,Junika,P,38,12.0,86.0,Normal,Pendek,Normal
+151,Agrifa,P,36,10.1,84.0,Kurang,Pendek,Normal
+152,Dian Saputra,L,56,13.8,98.0,Normal,Pendek,Normal
+153,Anugrah pratama,L,13,7.2,72.0,Kurang,Pendek,Kurang
+154,Atiah,P,16,7.0,71.0,Kurang,Pendek,Kurang
+155,"Rafasya Ardel,Sinaga",L,17,7.7,70.0,Kurang,S.Pendek,Normal
+156,Jou,L,16,8.0,75.0,Kurang,Pendek,Kurang
+157,"M,Azam",L,43,11.0,92.0,Kurang,Pendek,Kurang
+158,Abdul  Sidik,L,20,9.2,76.0,Normal,Pendek,Normal
+159,Saut Taruli Sihotang,L,19,7.3,74.0,Kurang,S.Pendek,buruk
+160,Jingga Lestari,L,45,13.0,90.0,Normal,Pendek,Normal
+161,Syahfa Marwa Salsabila,P,44,13.0,90.5,Pendek,Normal,Baik
+162,Nurul Aulia,P,42,12.2,94.0,Pendek,Kurang,Baik
+163,Febi Yunisa,P,42,10.0,88.0,Pendek,Kurang,Kurang
+164,M. Reihan,L,37,10.0,84.5,Sangat Pendek,sangat kurang,Baik
+165,Haziq Al Athaya,L,36,9.7,86.0,Pendek,sangat kurang,Kurang
+166,Athala,L,29,11.0,81.5,Pendek,Normal,Baik
+167,Aviva Umma Hayroh,P,23,7.2,76.5,Pendek,sangat kurang,Buruk
+168,AyuFerling,P,44,9.4,85.0,S.Pendek,S.Kurang,G.Buruk
+169,ImanuelSihombing,L,56,13.2,86.5,S.Pendek,S.Kurang,G.Baik
+170,SilviStevaniSiagian,P,35,11.0,84.0,Pendek,Kurang,G.Baik
+171,AditiaPratama,L,45,11.5,92.5,Pendek,S.Kurang,G.Kurang
+172,FatiaAmaniPutri,P,18,7.5,74.5,Pendek,Kurang,G.Baik
+173,Azril RayhanDika Alfariq,L,37,9.4,84.0,SP,SK,KURANG
+174,Gali Rafael,L,24,9.0,77.5,SP,K,BAIK
+175,Sayyidah Nafisah,P,43,11.5,88.5,P,K,BAIK
+176,Zaki Rabbani,L,48,12.2,91.2,P,K,BAIK
+177,Setia Jasahcah,P,52,11.9,91.0,SP,K,BAIK
+178,Ajeng aurellia putri,P,58,12.0,98.0,p,k,BAIK
+179,Ayu Gabriela,P,56,12.0,90.0,SP,K,BAIK
+180,Aura Aprillia,P,51,11.5,92.5,P,K,BAIK
+181,Nadira,P,38,11.5,85.0,p,N,BAIK
+182,M. Luthfi,L,48,11.4,93.0,P,K,BAIK 
+183,Riska Aulia,P,49,10.2,85.0,SP,SK,N
+184,M.Angga,L,15,5.6,68.0,Sp,k,BURUK
+185,FADIYAH .S.C,P,22,7.3,74.0,Sp,sk,k
