@@ -39,10 +39,10 @@ Bahasa Pemrograman : 🐍 Python (Jupyter lab)
     - Hapus fitur dan label yang tidak dipakai lagi ✔
     - Hapus data duplikat untuk menghindari overfitting ✔
 
-- 🕸 Rancang jaringan ANN
-  - Menentukan jumlah neuron input layer
-  - Menentukan jumlah hidden layer
-  - Menentukan jumlah neuron hidden layer
-  - Menentukan jumlah neuron output layer
-  - Menentukan fungsi aktivasi pada hidden layer
-  - Menentukan fungsi aktivasi pada output layer
+- 🕸 Rancang jaringan ANN ✅
+  - Menentukan jumlah neuron input layer ✔
+  - Menentukan jumlah hidden layer ✔
+  - Menentukan jumlah neuron hidden layer ✔
+  - Menentukan fungsi aktivasi pada hidden layer ✔
+  - Menentukan jumlah neuron output layer ✔
+  - Menentukan fungsi aktivasi pada output layer ✔
