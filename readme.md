@@ -37,12 +37,36 @@ Bahasa Pemrograman : 🐍 Python (Jupyter lab)
   - Reduction Data ✅
     - Hapus fitur dan label yang tidak relevan ✔
     - Hapus fitur dan label yang tidak dipakai lagi ✔
-    - Hapus data duplikat untuk menghindari overfitting ✔
+    - Hapus data duplikat ✔
 
 - 🕸 Rancang jaringan ANN ✅
+
   - Menentukan jumlah neuron input layer ✔
-  - Menentukan jumlah hidden layer ✔
+    - 4 Neuron : umur, jenis kelamin, berat badan, tinggi badan
+  - Menentukan jumlah hidden layer
+    - 1 dan 2 Hidden Layer
   - Menentukan jumlah neuron hidden layer ✔
+    - HL1: 9 Neuron
+    - HL2: 4 Neuron
   - Menentukan fungsi aktivasi pada hidden layer ✔
+    - ReLU
   - Menentukan jumlah neuron output layer ✔
+    - 4 Neuron: Sehat, Stunting, Wasting, Keduanya
   - Menentukan fungsi aktivasi pada output layer ✔
+    - SoftMax
+  - Menentukan model jaringan yang akan dipakai ✔
+    - Model 1
+      - 1 Input Layer, 4 Neuron
+      - 1 Hidden Layer, 9 Neuron
+      - 1 Output Layer, 4 Neuron
+    - Model 2
+      - 1 Input Layer, 4 Neuron
+      - 2 Hidden Layer, 13 Neuron :
+        - 9 Neuron
+        - 4 Neuron
+      - 1 Output Layer, 4 Neuron
+
+- 👨‍🏫 Latih dan Uji jaringan ✅
+  - Hasil akurasi didapat:
+    - Model 1 : 43%
+    - Model 2 : 42%
