@@ -1,0 +1,6 @@
+Top 5 from the most 'stable' models:
+1. Type 1 - 43% acc, 46% recc, 0.36 f1-score
+2. Type 8 - 43% acc, 47% recc, 0.35 f1-score
+3. Type 7 - 41% acc, 46% recc, 0.35 f1-score
+4. Type 3 - 42% acc, 43% recc, 0.32 f1-score
+5. Type 5 - 42% acc, 43% recc, 0.32 f1-score
