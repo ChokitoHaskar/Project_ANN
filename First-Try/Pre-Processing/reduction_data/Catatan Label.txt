@@ -1,4 +1,0 @@
-0 = Sehat
-1 = Stunting
-2 = Wasting
-3 = Keduanya
