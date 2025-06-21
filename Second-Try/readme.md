@@ -16,4 +16,11 @@
 2. Integration
    - Menggabungkan seluruh datasets menjadi 1 big data
 3. Transformation
+   - Ubah format gender menjadi nominal
+   - Interpolasi nilai yang tidak memiliki LMS
+   - Cari nilai z-score stunting & wasting
+   - Tentukan label pada setiap data
+   - Oversampling data dengan SMOTE untuk menyeimbangkan data
+   - Normalisasi data
 4. Reduction
+   - Mengurangi jumlah data pada dataset latih dengan menghapus duplikat
